@@ -1,22 +1,36 @@
-# BIKE-SALES-REPORT
-I completed KPMG AUSTRALIA VIRTUAL INTERNSHIP PROGRAM by forage yesternight addressing the business questions with a simple Power BI report.
-I completed the KPMG Australia Virtual Internship Program by Forage last night, creating a Power BI report to address business questions. The project involved exploring a dataset from Sprocket Central, a company specializing in bike and accessory production.
+# Customer Segmentation for a Bike Retailer (KPMG Virtual Experience)
 
-Conducting a Data Quality Assessment, I communicated results to Sprocket Central, offering professional advice on data collection and storage. Analyzing three datasets—Customer Demography, Customer Address, and Transaction—I identified the customer segment for Sprocket Central's marketing team among the new 1000 customers and broader market.
+**Tools:** Power BI · **Program:** KPMG Australia Data Analytics virtual experience, delivered through Forage · **Data:** customer demographics, addresses and transactions for Sprocket Central, a fictional bike and accessories company
 
-Key Trends:
+![Bike sales report](images/bike_sales_report.png)
 
-Mass Customers show the highest customer value among wealth segments.
-Gen X (42-57 years) has the highest purchase compared to other age groups.
-Sales are higher in Manufacturing and Financial Service categories.
-Gender and car ownership show no significant effects.
-Proposed Marketing Strategy:
-Market Penetration: Focus on Solex and WeareA2B brands, considering price, promotion, and distribution adjustments for existing products in existing markets.
+## Business question
 
-Target Segments in New 100 Customers:
+Sprocket Central's marketing team received a list of **1,000 new customers** and wanted to know **which of them to target first** to grow sales.
 
-Customers from New South Wales (NSW)
-Gen X age bracket
-Mass customers in the wealth segment
-Manufacturing and Financial Services in Industry category.
-I appreciate the opportunity from the Forage team and look forward to more experiences.
+## What I did
+
+1. **Data quality assessment** of three datasets (customer demographics, customer addresses and transactions): checked completeness, consistency and accuracy, and gave the client recommendations on how to collect and store data better.
+2. **Analyzed existing customers** to find the segments with the highest value.
+3. **Built a Power BI report** showing sales by brand, age group, industry, wealth segment, state, gender and car ownership.
+4. **Applied the findings to the 1,000 new customers** to recommend a target segment.
+
+## Key findings
+
+* **Mass customers** generate the highest value of all wealth segments.
+* **Gen X customers (aged about 42 to 57)** buy the most.
+* Customers in **Manufacturing** and **Financial Services** account for the highest sales.
+* **New South Wales** is the strongest state.
+* **Gender and car ownership** make no meaningful difference to purchases.
+
+## Recommendations
+
+* **Target first:** new customers in **New South Wales**, aged **Gen X**, in the **Mass** wealth segment, working in **Manufacturing or Financial Services**.
+* **Strategy:** market penetration, focusing on the leading brands (**Solex** and **WeareA2B**) with price, promotion and distribution adjustments for existing products in existing markets.
+
+## Files
+
+| File | Contents |
+|---|---|
+| `BIKE SALES REPORT.pdf` | Power BI report |
+| `images/` | Report image |
